@@ -250,3 +250,30 @@ ng GameManager.cs…]()
 
 
 Da ich bis heute verschiedene Anwendungen und Spiele gemacht habe, sind sie jetzt langweilig und kurz. Ich mache Pläne, um ein Spiel oder eine Anwendung zu machen, die länger dauern und fast einzigartig sein wird.
+
+
+
+
+
+
+
+
+
+
+
+
+
+8.11.2021
+
+Technische Probleme beheben: Arbeite daran, das Problem mit Rider zu lösen, damit du das Multiplattform-Projekt starten kannst.
+Marktanalyse und Ideenfindung: Recherchiere intensiv über Anwendungen, die Marktpreisvorhersagen für Aktien und Kryptowährungen machen, und notiere dir relevante Funktionen und Erfolgsfaktoren.
+Alte Projekte durchsehen: Analysiere deine früheren Projekte, um herauszufinden, welche Teile du für die neue Anwendung wiederverwenden oder weiterentwickeln könntest.
+
+
+Nächste Woche Planung:
+
+Projektentwicklung starten: Sobald das technische Problem gelöst ist, beginne mit der Programmierung deiner Anwendung.
+Alternative Entwicklungsumgebung prüfen: Falls das Problem mit Rider nicht gelöst werden kann, wechsle zu einer anderen Entwicklungsumgebung, die Multiplattform-Unterstützung bietet.
+Entwicklungsplan erstellen: Skizziere einen detaillierten Plan für die Funktionen und Struktur deiner Anwendung. Lege Ziele und Meilensteine für die ersten Entwicklungsschritte fest, um fokussiert und effizient voranzukommen.
+Mit diesem Plan kannst du in dieser Woche die Grundlagen schaffen, um nächste Woche erfolgreich mit der Programmierung zu beginnen.
+
