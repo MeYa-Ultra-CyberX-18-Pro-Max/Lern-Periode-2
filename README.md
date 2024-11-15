@@ -263,7 +263,7 @@ Da ich bis heute verschiedene Anwendungen und Spiele gemacht habe, sind sie jetz
 
 
 
-8.11.2021
+8.11.2024
 
 Technische Probleme beheben: Arbeite daran, das Problem mit Rider zu lösen, damit du das Multiplattform-Projekt starten kannst.
 Marktanalyse und Ideenfindung: Recherchiere intensiv über Anwendungen, die Marktpreisvorhersagen für Aktien und Kryptowährungen machen, und notiere dir relevante Funktionen und Erfolgsfaktoren.
@@ -276,4 +276,13 @@ Projektentwicklung starten: Sobald das technische Problem gelöst ist, beginne m
 Alternative Entwicklungsumgebung prüfen: Falls das Problem mit Rider nicht gelöst werden kann, wechsle zu einer anderen Entwicklungsumgebung, die Multiplattform-Unterstützung bietet.
 Entwicklungsplan erstellen: Skizziere einen detaillierten Plan für die Funktionen und Struktur deiner Anwendung. Lege Ziele und Meilensteine für die ersten Entwicklungsschritte fest, um fokussiert und effizient voranzukommen.
 Mit diesem Plan kannst du in dieser Woche die Grundlagen schaffen, um nächste Woche erfolgreich mit der Programmierung zu beginnen.
+
+
+15.11.2024
+
+Für mein neues 3D Projekt habe ich viele Vorbereitungen getroffen. Zuerst habe ich recherchiert, wie man 3D Objekte erstellt, programmiert und gestaltet. Dazu habe ich verschiedene Quellen im Internet gelesen und Videos angeschaut. Besonders habe ich mich mit Tools wie Unity und Blender beschäftigt, um sie besser zu verstehen und anwenden zu können. Zusätzlich habe ich meine grundlegenden C#-Kenntnisse verbessert, indem ich einige Beispielprojekte analysiert habe.
+
+Um noch mehr zu lernen, habe ich auch meine alten Projekte angeschaut und den Code überprüft. Dabei habe ich Fehler entdeckt, die ich damals gemacht habe, und darüber nachgedacht, wie ich daraus lernen kann. Ich habe erkannt, wie wichtig es ist, den Code gut zu strukturieren und mit klaren Kommentaren zu versehen.
+
+Diese Vorbereitungen haben mich motiviert, und ich fühle mich jetzt sicherer, an meinem neuen Projekt zu arbeiten. Mein Plan ist es, Schritt für Schritt vorzugehen und mein Projekt so kreativ und solide wie möglich zu gestalten. Alles, was ich lerne, schreibe ich auf, damit ich es später nachschlagen kann.
 
