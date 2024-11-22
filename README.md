@@ -286,3 +286,18 @@ Um noch mehr zu lernen, habe ich auch meine alten Projekte angeschaut und den Co
 
 Diese Vorbereitungen haben mich motiviert, und ich fühle mich jetzt sicherer, an meinem neuen Projekt zu arbeiten. Mein Plan ist es, Schritt für Schritt vorzugehen und mein Projekt so kreativ und solide wie möglich zu gestalten. Alles, was ich lerne, schreibe ich auf, damit ich es später nachschlagen kann.
 
+
+22.11.2024
+
+
+Ich habe die unfertige Hypothekenrechner-Anwendung überprüft und verbessert. 
+Neue Codes berechnen die monatlichen Raten genauer, und Bilder sowie Diagramme machen die Ergebnisse übersichtlicher. 
+Zudem erleichtern Hilfetexte die Nutzung. Die Anwendung ist jetzt funktionaler, aber noch nicht fertig.
+<img width="1728" alt="Screenshot 2024-11-22 at 11 21 17" src="https://github.com/user-attachments/assets/eccf800c-048e-44b3-8da5-62dee00aacc0">
+
+
+Nächste Woche werde ich mit dem Projekt weitermachen und es beenden. Sobald ich es fertiggestellt habe,
+werde ich ein neues Projekt suchen und damit anfangen. Ich freue mich darauf, 
+neue Herausforderungen anzugehen und mich weiterzuentwickeln.
+
+
