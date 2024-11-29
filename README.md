@@ -301,3 +301,23 @@ werde ich ein neues Projekt suchen und damit anfangen. Ich freue mich darauf,
 neue Herausforderungen anzugehen und mich weiterzuentwickeln.
 
 
+29.11.2024
+
+Ich habe meine Arbeit an der Hypothekenrechner-Anwendung fortgesetzt und mehrere Verbesserungen vorgenommen:
+
+Individuelles Design für Buttons:
+Um keine vorgefertigten Bilder zu verwenden, habe ich meine eigenen Buttons gestaltet. Dadurch wirkt die Benutzeroberfläche persönlicher und ansprechender.
+Fehlerbehebung:
+Ich habe Probleme in der Anwendung identifiziert und behoben, wodurch die Funktionen jetzt einwandfrei laufen.
+Neue Funktion „Wunschhypothek“ hinzugefügt:
+Ich habe eine zusätzliche Funktion implementiert, mit der Benutzer ihre gewünschte Hypothek individuell berechnen können.
+Diese Anpassungen und Erweiterungen verbessern sowohl die Funktionalität als auch das Design meiner Anwendung und bieten den Nutzern eine bessere Erfahrung.
+
+Nächste Woche werde ich die Anwendung weiterentwickeln und neue Funktionen hinzufügen, um die Benutzererfahrung noch weiter zu verbessern.
+
+
+<img width="1720" alt="Screenshot 2024-11-29 at 12 00 03" src="https://github.com/user-attachments/assets/70c8be63-6be9-4405-8225-a59fa92bff82">
+<img width="1699" alt="Screenshot 2024-11-29 at 11 59 47" src="https://github.com/user-attachments/assets/c2061d26-8f01-4406-83a3-a858aff37386">
+
+
+
