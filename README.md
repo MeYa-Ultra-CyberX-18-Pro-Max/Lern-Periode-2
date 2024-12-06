@@ -340,6 +340,7 @@ und die Spielmechanik verstanden.
 <img width="1728" alt="Screenshot 2024-12-06 at 11 51 00" src="https://github.com/user-attachments/assets/639463f6-046d-402f-80b5-d22e417451bf">
 <img width="295" alt="Screenshot 2024-12-06 at 11 48 41" src="https://github.com/user-attachments/assets/381d970b-10fd-48ef-9d17-e87227e26685">
 <img width="656" alt="Screenshot 2024-12-06 at 11 34 30" src="https://github.com/user-attachments/assets/9c4e875c-5bd3-4a94-968e-461800ce96cc">
+<img width="675" alt="Screenshot 2024-12-06 at 11 52 06" src="https://github.com/user-attachments/assets/62224464-f632-45cb-b111-4274a773db22">
 
 
 
