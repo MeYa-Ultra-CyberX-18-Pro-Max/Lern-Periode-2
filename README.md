@@ -321,3 +321,30 @@ Nächste Woche werde ich die Anwendung weiterentwickeln und neue Funktionen hinz
 
 
 
+06.12.2024 
+
+
+
+Während ich viele Spielideen im Kopf hatte, suchte ich nach einem Projekt, das relativ schnell abgeschlossen werden kann.
+Da erinnerte ich mich an eine Idee, die mir vor einigen Jahren kam, als das Spiel 2048 aufkam. Mein Plan war,
+dieses Spielprinzip mit einigen Änderungen zu verbessern.
+
+Das Spiel wird anstelle eines quadratischen Gitters auf einem dreieckigen Gitter gespielt. Die Zahlen werden nicht als 
+Potenzen von 2 dargestellt, sondern als Potenzen von 3. Das Ziel des Spiels ist es, die Zahl 177147 zu erreichen, die 3^11 entspricht.
+Zusätzlich werden die Steine in drei Richtungen bewegbar sein, was das Spiel spannender und strategischer macht.
+Nachdem ich viel im Internet recherchiert hatte, wurde mir klar, dass es noch nicht genau so war, wie ich dachte. 
+Diese Woche habe ich mit den Vorbereitungen für das Programmieren begonnen. Ich habe erste Entwürfe gemacht, ähnliche Spiele untersucht
+und die Spielmechanik verstanden.
+
+
+<img width="1728" alt="Screenshot 2024-12-06 at 11 51 00" src="https://github.com/user-attachments/assets/639463f6-046d-402f-80b5-d22e417451bf">
+<img width="295" alt="Screenshot 2024-12-06 at 11 48 41" src="https://github.com/user-attachments/assets/381d970b-10fd-48ef-9d17-e87227e26685">
+<img width="656" alt="Screenshot 2024-12-06 at 11 34 30" src="https://github.com/user-attachments/assets/9c4e875c-5bd3-4a94-968e-461800ce96cc">
+
+
+
+Nachste Woche: In der nächsten Woche werde ich mit dem Coden anfangen und plane, das Spiel innerhalb von zwei Wochen
+fertigzustellen. Ich freue mich darauf, diese Idee in die Realität umzusetzen!
+
+
+
