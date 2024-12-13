@@ -1,4 +1,4 @@
-Lern-Periode 2
+<img width="1721" alt="Screenshot 2024-12-13 at 11 18 16" src="https://github.com/user-attachments/assets/fd02f58d-f839-4611-9378-6a0f2ba5eef3" />Lern-Periode 2
 25.10 bis 20.12
 
 In dieser Lernperiode möchte ich etwas ganz Neues und Einzigartiges entwickeln. Vielleicht wird es ein spannendes 
@@ -346,6 +346,26 @@ und die Spielmechanik verstanden.
 
 Nachste Woche: In der nächsten Woche werde ich mit dem Coden anfangen und plane, das Spiel innerhalb von zwei Wochen
 fertigzustellen. Ich freue mich darauf, diese Idee in die Realität umzusetzen!
+
+
+13.12.2024
+
+![<img width="1722" alt="Screenshot 2024-12-13 at 11 17 32" src="https://github.com/user-attachments/assets/b90ce693-82c1-4f0e-baef-8902c1e656d5" />
+Uploading Screenshot 2024-12-13 at 11.18.16.png…]()
+
+Ich habe versucht, mein Projekt weiterzuführen, aber als die physikalischen Systeme und Formen nicht richtig zusammenpassten,
+entschied ich mich, eine Pause zu machen. In dieser Pause recherchierte ich die Frage an der Tafel und konnte das Problem schließlich lösen.
+Um das besser zu verstehen, habe ich dann ein Beispielprojekt in 3D gemacht und es ausprobiert. Das hat sehr gut funktioniert,
+und ich konnte das Konzept viel besser nachvollziehen. Diese praktische Erfahrung hat mir geholfen, die Theorie hinter den physikalischen Systemen
+und Formen besser zu verstehen, und ich fühle mich nun viel sicherer, was das Thema betrifft. Es war sehr hilfreich, die Theorie mit einem
+praktischen Projekt zu kombinieren, weil ich so die Funktionsweise der verschiedenen Systeme direkt beobachten konnte.
+
+
+Für nächste Woche: gibt es keine konkreten Pläne. Entweder werde ich versuchen, das Spiel 177777 fortzusetzen,
+oder ich werde ein einfaches Spiel machen, das in einer Woche fertig sein wird.
+
+
+
 
 
 
