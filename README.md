@@ -383,6 +383,19 @@ Nach den Ferien werde ich das Spiel fertigstellen und die letzten Verbesserungen
 
 
 
+Reflektion LP2:
+
+
+In dieser Lernperiode habe ich mich sowohl technisch als auch persönlich weiterentwickelt.
+Besonders im Bereich der Unity-Spieleentwicklung und Programmierung habe ich mein Wissen vertieft,
+was es mir ermöglichte, meine Projekte effektiver zu managen. Ich habe während dieser zwei Monate fünf Spiele entwickelt,
+was mir half, meine kreativen Fähigkeiten und Problemlösungsansätze weiter auszubauen. Dabei habe ich gelernt, wie wichtig es ist, 
+Zeit effizient zu managen und Prioritäten zu setzen. In Zukunft möchte ich noch gezielter an meiner Effizienz und Kreativität arbeiten, 
+um die Qualität meiner Projekte weiter zu verbessern.
+
+
+
+
 
 
 
