@@ -1,4 +1,4 @@
-<img width="1721" alt="Screenshot 2024-12-13 at 11 18 16" src="https://github.com/user-attachments/assets/fd02f58d-f839-4611-9378-6a0f2ba5eef3" />Lern-Periode 2
+Lern-Periode 2
 25.10 bis 20.12
 
 In dieser Lernperiode möchte ich etwas ganz Neues und Einzigartiges entwickeln. Vielleicht wird es ein spannendes 
