@@ -364,7 +364,8 @@ Für nächste Woche: gibt es keine konkreten Pläne. Entweder werde ich versuche
 oder ich werde ein einfaches Spiel machen, das in einer Woche fertig sein wird.
 
 20.12.2024
-Zuerst habe ich versucht, das 177147-Spiel in Unity zu erstellen, aber da die Bewegung in 6 Richtungen und nicht in 4 Richtungen sein sollte,
+
+Zuerst habe ich versucht, das 177147 Spiel in Unity zu erstellen, aber da die Bewegung in 6 Richtungen und nicht in 4 Richtungen sein sollte,
 war die Handhabung der Physik und der Verbindungen sehr schwierig. Deshalb habe ich mich entschieden, das Spiel mit HTML, CSS und JavaScript zu machen.
 Mit HTML habe ich ein dreieckiges Gitter erstellt, mit CSS das Design angepasst und mit JavaScript die Zahlen bewegt.
 So konnte ich schnell ein funktionierendes Spiel erstellen, ohne mich um die komplexen Physikberechnungen zu kümmern.
