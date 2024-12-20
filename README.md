@@ -368,8 +368,14 @@ Zuerst habe ich versucht, das 177147-Spiel in Unity zu erstellen, aber da die Be
 war die Handhabung der Physik und der Verbindungen sehr schwierig. Deshalb habe ich mich entschieden, das Spiel mit HTML, CSS und JavaScript zu machen.
 Mit HTML habe ich ein dreieckiges Gitter erstellt, mit CSS das Design angepasst und mit JavaScript die Zahlen bewegt.
 So konnte ich schnell ein funktionierendes Spiel erstellen, ohne mich um die komplexen Physikberechnungen zu kümmern.
+
+
 <img width="393" alt="Screenshot 2024-12-20 at 10 18 21" src="https://github.com/user-attachments/assets/350f0615-45b9-4918-bbb0-a91760d5f9ae" />
+
+
+
 [177147.html.zip](https://github.com/user-attachments/files/18208748/177147.html.zip)
+
 
 Nach den Ferien werde ich das Spiel fertigstellen und die letzten Verbesserungen vornehmen.
 
