@@ -339,7 +339,6 @@ und die Spielmechanik verstanden.
 
 <img width="1728" alt="Screenshot 2024-12-06 at 11 51 00" src="https://github.com/user-attachments/assets/639463f6-046d-402f-80b5-d22e417451bf">
 <img width="295" alt="Screenshot 2024-12-06 at 11 48 41" src="https://github.com/user-attachments/assets/381d970b-10fd-48ef-9d17-e87227e26685">
-<img width="656" alt="Screenshot 2024-12-06 at 11 34 30" src="https://github.com/user-attachments/assets/9c4e875c-5bd3-4a94-968e-461800ce96cc">
 <img width="675" alt="Screenshot 2024-12-06 at 11 52 06" src="https://github.com/user-attachments/assets/62224464-f632-45cb-b111-4274a773db22">
 
 
@@ -363,6 +362,17 @@ praktischen Projekt zu kombinieren, weil ich so die Funktionsweise der verschied
 
 Für nächste Woche: gibt es keine konkreten Pläne. Entweder werde ich versuchen, das Spiel 177777 fortzusetzen,
 oder ich werde ein einfaches Spiel machen, das in einer Woche fertig sein wird.
+
+20.12.2024
+Zuerst habe ich versucht, das 177147-Spiel in Unity zu erstellen, aber da die Bewegung in 6 Richtungen und nicht in 4 Richtungen sein sollte,
+war die Handhabung der Physik und der Verbindungen sehr schwierig. Deshalb habe ich mich entschieden, das Spiel mit HTML, CSS und JavaScript zu machen.
+Mit HTML habe ich ein dreieckiges Gitter erstellt, mit CSS das Design angepasst und mit JavaScript die Zahlen bewegt.
+So konnte ich schnell ein funktionierendes Spiel erstellen, ohne mich um die komplexen Physikberechnungen zu kümmern.
+<img width="393" alt="Screenshot 2024-12-20 at 10 18 21" src="https://github.com/user-attachments/assets/350f0615-45b9-4918-bbb0-a91760d5f9ae" />
+[177147.html.zip](https://github.com/user-attachments/files/18208748/177147.html.zip)
+
+Nach den Ferien werde ich das Spiel fertigstellen und die letzten Verbesserungen vornehmen.
+
 
 
 
